@@ -1,0 +1,1119 @@
+D:\Ohjelmointi1\Kotitehtava_6>nostomaatti.exe
+
+Tervetuloa! Syota kortti, ole hyva
+
+Nappaile tilinumero > 12x45
+
+Tilinumeroa ei loytynyt.
+Nappaile tilinumero > 10000
+
+Tilinumeroa ei loytynyt.
+Viimeinen yrityksesi nappailla tilinumero on seuraava yritys.
+Nappaile tilinumero > 12345
+Nappaile tunnusluku > 12x4
+  Et syottanyt kokonaislukua > 1000
+
+Annoit tiliin kuulumattoman tunnusluvun.
+Nappaile tunnusluku > -1000
+Annoit viallisen tunnusluvun.
+Syota tunnusluku uudelleen.
+
+Nappaile tunnusluku > 1234
+
+  ** PAAVALIKKO **
+  1. SETELIOTTO
+  2. SALDO
+  3. TAPAHTUMAT
+  4. LIITTYMAN LATAUS, PUHEAIKA
+  5. TALLETUS
+  0. STOP -> OHJELMAN LOPETUS
+
+  Valitse toiminto ( 1, 2, 3, 4, 5, 0) > 2
+
+  Tilin saldo:                   990 eur
+  Tilin kateisnostovara:         990 eur
+
+  Paina ENTER >
+
+  ** PAAVALIKKO **
+  1. SETELIOTTO
+  2. SALDO
+  3. TAPAHTUMAT
+  4. LIITTYMAN LATAUS, PUHEAIKA
+  5. TALLETUS
+  0. STOP -> OHJELMAN LOPETUS
+
+  Valitse toiminto ( 1, 2, 3, 4, 5, 0) > 5
+
+
+  Anna talletusmaara > 1w3
+  Et syottanyt kokonaislukua > -100
+
+Talletuksen pitaa olla positiivinen
+  Anna talletusmaara > 10
+
+  ** PAAVALIKKO **
+  1. SETELIOTTO
+  2. SALDO
+  3. TAPAHTUMAT
+  4. LIITTYMAN LATAUS, PUHEAIKA
+  5. TALLETUS
+  0. STOP -> OHJELMAN LOPETUS
+
+  Valitse toiminto ( 1, 2, 3, 4, 5, 0) > 2
+
+  Tilin saldo:                  1000 eur
+  Tilin kateisnostovara:        1000 eur
+
+  Paina ENTER > 1
+
+  ** PAAVALIKKO **
+  1. SETELIOTTO
+  2. SALDO
+  3. TAPAHTUMAT
+  4. LIITTYMAN LATAUS, PUHEAIKA
+  5. TALLETUS
+  0. STOP -> OHJELMAN LOPETUS
+
+  Valitse toiminto ( 1, 2, 3, 4, 5, 0) > 1
+
+       SETELI OTTO
+  20 euroa     90 euroa
+  40 euroa    140 euroa
+  60 euroa    240 euroa
+  0  STOP     Muu summa
+
+  Anna summa > -100
+
+Annoit kelpaamattoman luvun.
+Automaatista saa 20 ja 50 euron seteleita.
+Suurin kertanosto on enintaan 1000 euroa.
+Valitse nostomaara uudelleen.
+
+       SETELI OTTO
+  20 euroa     90 euroa
+  40 euroa    140 euroa
+  60 euroa    240 euroa
+  0  STOP     Muu summa
+
+  Anna summa > 1x0
+  Et syottanyt kokonaislukua > 100
+
+Nostettu summa on 100 euroa
+Annetaan
+    2 kpl 50 eur seteleita
+    0 kpl 20 eur seteleita
+Ota kortti, ole hyva. Rahat tulossa.
+Ota rahat.
+
+Kiitos kaynnista
+
+D:\Ohjelmointi1\Kotitehtava_6>nostomaatti.exe
+
+Tervetuloa! Syota kortti, ole hyva
+
+Nappaile tilinumero > 12345
+Nappaile tunnusluku > 1234
+
+  ** PAAVALIKKO **
+  1. SETELIOTTO
+  2. SALDO
+  3. TAPAHTUMAT
+  4. LIITTYMAN LATAUS, PUHEAIKA
+  5. TALLETUS
+  0. STOP -> OHJELMAN LOPETUS
+
+  Valitse toiminto ( 1, 2, 3, 4, 5, 0) > 1
+
+       SETELI OTTO
+  20 euroa     90 euroa
+  40 euroa    140 euroa
+  60 euroa    240 euroa
+  0  STOP     Muu summa
+
+  Anna summa > 1000
+
+  Saldosi on 900 euroa. Et voi nostaa enempaa kuin tililla on rahaa
+
+       SETELI OTTO
+  20 euroa     90 euroa
+  40 euroa    140 euroa
+  60 euroa    240 euroa
+  0  STOP     Muu summa
+
+  Anna summa > 400
+
+Nostettu summa on 400 euroa
+Annetaan
+    8 kpl 50 eur seteleita
+    0 kpl 20 eur seteleita
+Ota kortti, ole hyva. Rahat tulossa.
+Ota rahat.
+
+Kiitos kaynnista
+
+D:\Ohjelmointi1\Kotitehtava_6>nostomaatti.exe
+
+Tervetuloa! Syota kortti, ole hyva
+
+Nappaile tilinumero > 12345
+Nappaile tunnusluku > 1234
+
+  ** PAAVALIKKO **
+  1. SETELIOTTO
+  2. SALDO
+  3. TAPAHTUMAT
+  4. LIITTYMAN LATAUS, PUHEAIKA
+  5. TALLETUS
+  0. STOP -> OHJELMAN LOPETUS
+
+  Valitse toiminto ( 1, 2, 3, 4, 5, 0) > 2
+
+  Tilin saldo:                   500 eur
+  Tilin kateisnostovara:         500 eur
+
+  Paina ENTER >
+
+  ** PAAVALIKKO **
+  1. SETELIOTTO
+  2. SALDO
+  3. TAPAHTUMAT
+  4. LIITTYMAN LATAUS, PUHEAIKA
+  5. TALLETUS
+  0. STOP -> OHJELMAN LOPETUS
+
+  Valitse toiminto ( 1, 2, 3, 4, 5, 0) > 4
+
+Liittyman lataus
+
+  Valitse palvelu:
+  1. Saunalahti
+  2. DNA
+  3. Go Mobile
+  0. STOP -> PAAVALIKKOON
+
+  Valitse toiminto (1, 2, 3, 0) > 1
+
+   Syota Saunalahti puhelinnumero (esim. 0401987...) > 04012345678
+
+   LIITTYMAN LATAUS
+   10 euroa     25 euroa
+   15 euroa     30 euroa
+   20 euroa     50 euroa
+   0  STOP     100 euroa
+
+   Anna summa > -100
+
+Annoit kelpaamattoman summan.
+Kaytetaan OLETUS summaa.
+Ladattava summa 10 eur ( ** OLETUS ** ).
+
+Liittyman lataus
+
+Maksun hyvaksyminen
+
+   Puhelinnumero           04012345678
+   Ladattava summa         10 eur
+   Otto tililta            10 eur
+
+   Hyvaksy maksu ( paina ENTER ) >
+
+Tapahtumaasi kasitellaan.
+
+Ota kortti, ole hyva
+Puheaika maksettu
+
+Saunalahti latausvahvistus tekstiviestilla
+
+  ** PAAVALIKKO **
+  1. SETELIOTTO
+  2. SALDO
+  3. TAPAHTUMAT
+  4. LIITTYMAN LATAUS, PUHEAIKA
+  5. TALLETUS
+  0. STOP -> OHJELMAN LOPETUS
+
+  Valitse toiminto ( 1, 2, 3, 4, 5, 0) > 2
+
+  Tilin saldo:                   490 eur
+  Tilin kateisnostovara:         490 eur
+
+  Paina ENTER >
+
+  ** PAAVALIKKO **
+  1. SETELIOTTO
+  2. SALDO
+  3. TAPAHTUMAT
+  4. LIITTYMAN LATAUS, PUHEAIKA
+  5. TALLETUS
+  0. STOP -> OHJELMAN LOPETUS
+
+  Valitse toiminto ( 1, 2, 3, 4, 5, 0) > 4
+
+Liittyman lataus
+
+  Valitse palvelu:
+  1. Saunalahti
+  2. DNA
+  3. Go Mobile
+  0. STOP -> PAAVALIKKOON
+
+  Valitse toiminto (1, 2, 3, 0) > 2
+
+   Syota DNA puhelinnumero (esim. 0401987...) > 05087654321
+
+   LIITTYMAN LATAUS
+   10 euroa     25 euroa
+   15 euroa     30 euroa
+   20 euroa     50 euroa
+   0  STOP     100 euroa
+
+   Anna summa > 50
+
+Liittyman lataus
+
+Maksun hyvaksyminen
+
+   Puhelinnumero           05087654321
+   Ladattava summa         50 eur
+   Otto tililta            50 eur
+
+   Hyvaksy maksu ( paina ENTER ) >
+
+Tapahtumaasi kasitellaan.
+
+Ota kortti, ole hyva
+Puheaika maksettu
+
+DNA latausvahvistus tekstiviestilla
+
+  ** PAAVALIKKO **
+  1. SETELIOTTO
+  2. SALDO
+  3. TAPAHTUMAT
+  4. LIITTYMAN LATAUS, PUHEAIKA
+  5. TALLETUS
+  0. STOP -> OHJELMAN LOPETUS
+
+  Valitse toiminto ( 1, 2, 3, 4, 5, 0) > 2
+
+  Tilin saldo:                   440 eur
+  Tilin kateisnostovara:         440 eur
+
+  Paina ENTER >
+
+  ** PAAVALIKKO **
+  1. SETELIOTTO
+  2. SALDO
+  3. TAPAHTUMAT
+  4. LIITTYMAN LATAUS, PUHEAIKA
+  5. TALLETUS
+  0. STOP -> OHJELMAN LOPETUS
+
+  Valitse toiminto ( 1, 2, 3, 4, 5, 0) > 1
+
+       SETELI OTTO
+  20 euroa     90 euroa
+  40 euroa    140 euroa
+  60 euroa    240 euroa
+  0  STOP     Muu summa
+
+  Anna summa > 400
+
+Nostettu summa on 400 euroa
+Annetaan
+    8 kpl 50 eur seteleita
+    0 kpl 20 eur seteleita
+Ota kortti, ole hyva. Rahat tulossa.
+Ota rahat.
+
+Kiitos kaynnista
+
+D:\Ohjelmointi1\Kotitehtava_6>nostomaatti.exe
+
+Tervetuloa! Syota kortti, ole hyva
+
+Nappaile tilinumero > 12345
+Nappaile tunnusluku > 1234
+
+  ** PAAVALIKKO **
+  1. SETELIOTTO
+  2. SALDO
+  3. TAPAHTUMAT
+  4. LIITTYMAN LATAUS, PUHEAIKA
+  5. TALLETUS
+  0. STOP -> OHJELMAN LOPETUS
+
+  Valitse toiminto ( 1, 2, 3, 4, 5, 0) > 2
+
+  Tilin saldo:                    40 eur
+  Tilin kateisnostovara:          40 eur
+
+  Paina ENTER >
+
+  ** PAAVALIKKO **
+  1. SETELIOTTO
+  2. SALDO
+  3. TAPAHTUMAT
+  4. LIITTYMAN LATAUS, PUHEAIKA
+  5. TALLETUS
+  0. STOP -> OHJELMAN LOPETUS
+
+  Valitse toiminto ( 1, 2, 3, 4, 5, 0) > 5
+
+
+  Anna talletusmaara > 200
+
+  ** PAAVALIKKO **
+  1. SETELIOTTO
+  2. SALDO
+  3. TAPAHTUMAT
+  4. LIITTYMAN LATAUS, PUHEAIKA
+  5. TALLETUS
+  0. STOP -> OHJELMAN LOPETUS
+
+  Valitse toiminto ( 1, 2, 3, 4, 5, 0) > 2
+
+  Tilin saldo:                   240 eur
+  Tilin kateisnostovara:         240 eur
+
+  Paina ENTER >
+
+  ** PAAVALIKKO **
+  1. SETELIOTTO
+  2. SALDO
+  3. TAPAHTUMAT
+  4. LIITTYMAN LATAUS, PUHEAIKA
+  5. TALLETUS
+  0. STOP -> OHJELMAN LOPETUS
+
+  Valitse toiminto ( 1, 2, 3, 4, 5, 0) > 0
+
+
+Kiitos kaynnista
+
+D:\Ohjelmointi1\Kotitehtava_6>
+
+
+D:\Ohjelmointi1\Kotitehtava_6>nostomaatti.exe
+
+Tervetuloa! Syota kortti, ole hyva
+
+Nappaile tilinumero > 12345
+Nappaile tunnusluku > 1234
+
+  ** PAAVALIKKO **
+  1. SETELIOTTO
+  2. SALDO
+  3. TAPAHTUMAT
+  4. LIITTYMAN LATAUS, PUHEAIKA
+  5. TALLETUS
+  0. STOP -> OHJELMAN LOPETUS
+
+  Valitse toiminto ( 1, 2, 3, 4, 5, 0) > 2
+
+  Tilin saldo:                   240 eur
+  Tilin kateisnostovara:         240 eur
+
+  Paina ENTER >
+
+  ** PAAVALIKKO **
+  1. SETELIOTTO
+  2. SALDO
+  3. TAPAHTUMAT
+  4. LIITTYMAN LATAUS, PUHEAIKA
+  5. TALLETUS
+  0. STOP -> OHJELMAN LOPETUS
+
+  Valitse toiminto ( 1, 2, 3, 4, 5, 0) > 5
+
+
+  Anna talletusmaara > 1000
+
+  ** PAAVALIKKO **
+  1. SETELIOTTO
+  2. SALDO
+  3. TAPAHTUMAT
+  4. LIITTYMAN LATAUS, PUHEAIKA
+  5. TALLETUS
+  0. STOP -> OHJELMAN LOPETUS
+
+  Valitse toiminto ( 1, 2, 3, 4, 5, 0) > 2
+
+  Tilin saldo:                  1240 eur
+  Tilin kateisnostovara:        1240 eur
+
+  Paina ENTER >
+
+  ** PAAVALIKKO **
+  1. SETELIOTTO
+  2. SALDO
+  3. TAPAHTUMAT
+  4. LIITTYMAN LATAUS, PUHEAIKA
+  5. TALLETUS
+  0. STOP -> OHJELMAN LOPETUS
+
+  Valitse toiminto ( 1, 2, 3, 4, 5, 0) > 1
+
+       SETELI OTTO
+  20 euroa     90 euroa
+  40 euroa    140 euroa
+  60 euroa    240 euroa
+  0  STOP     Muu summa
+
+  Anna summa > 10
+
+Annoit kelpaamattoman luvun.
+Automaatista saa 20 ja 50 euron seteleita.
+Suurin kertanosto on enintaan 1000 euroa.
+Valitse nostomaara uudelleen.
+
+       SETELI OTTO
+  20 euroa     90 euroa
+  40 euroa    140 euroa
+  60 euroa    240 euroa
+  0  STOP     Muu summa
+
+  Anna summa > 20
+
+Nostettu summa on 20 euroa
+Annetaan
+    0 kpl 50 eur seteleita
+    1 kpl 20 eur seteleita
+Ota kortti, ole hyva. Rahat tulossa.
+Ota rahat.
+
+Kiitos kaynnista
+
+D:\Ohjelmointi1\Kotitehtava_6>nostomaatti.exe
+
+Tervetuloa! Syota kortti, ole hyva
+
+Nappaile tilinumero > 12345
+Nappaile tunnusluku > 1234
+
+  ** PAAVALIKKO **
+  1. SETELIOTTO
+  2. SALDO
+  3. TAPAHTUMAT
+  4. LIITTYMAN LATAUS, PUHEAIKA
+  5. TALLETUS
+  0. STOP -> OHJELMAN LOPETUS
+
+  Valitse toiminto ( 1, 2, 3, 4, 5, 0) > 1
+
+       SETELI OTTO
+  20 euroa     90 euroa
+  40 euroa    140 euroa
+  60 euroa    240 euroa
+  0  STOP     Muu summa
+
+  Anna summa > 130
+
+Nostettu summa on 130 euroa
+Annetaan
+    1 kpl 50 eur seteleita
+    4 kpl 20 eur seteleita
+Ota kortti, ole hyva. Rahat tulossa.
+Ota rahat.
+
+Kiitos kaynnista
+
+D:\Ohjelmointi1\Kotitehtava_6>
+D:\Ohjelmointi1\Kotitehtava_6>nostomaatti.exe
+
+Tervetuloa! Syota kortti, ole hyva
+
+Nappaile tilinumero > 12345
+Nappaile tunnusluku > 1234
+
+  ** PAAVALIKKO **
+  1. SETELIOTTO
+  2. SALDO
+  3. TAPAHTUMAT
+  4. LIITTYMAN LATAUS, PUHEAIKA
+  5. TALLETUS
+  0. STOP -> OHJELMAN LOPETUS
+
+  Valitse toiminto ( 1, 2, 3, 4, 5, 0) > 2
+
+  Tilin saldo:                  1090 eur
+  Tilin kateisnostovara:        1090 eur
+
+  Paina ENTER >
+
+  ** PAAVALIKKO **
+  1. SETELIOTTO
+  2. SALDO
+  3. TAPAHTUMAT
+  4. LIITTYMAN LATAUS, PUHEAIKA
+  5. TALLETUS
+  0. STOP -> OHJELMAN LOPETUS
+
+  Valitse toiminto ( 1, 2, 3, 4, 5, 0) > 4
+
+Liittyman lataus
+
+  Valitse palvelu:
+  1. Saunalahti
+  2. DNA
+  3. Go Mobile
+  0. STOP -> PAAVALIKKOON
+
+  Valitse toiminto (1, 2, 3, 0) > 3
+
+   Syota GoMobile puhelinnumero (esim. 0401987...) > 040011223344
+
+   LIITTYMAN LATAUS
+   10 euroa     25 euroa
+   15 euroa     30 euroa
+   20 euroa     50 euroa
+   0  STOP     100 euroa
+
+   Anna summa > www
+  Et syottanyt kokonaislukua > -10
+
+Annoit kelpaamattoman summan.
+Kaytetaan OLETUS summaa.
+Ladattava summa 10 eur ( ** OLETUS ** ).
+
+Liittyman lataus
+
+Maksun hyvaksyminen
+
+   Puhelinnumero           040011223344
+   Ladattava summa         10 eur
+   Otto tililta            10 eur
+
+   Hyvaksy maksu ( paina ENTER ) >
+
+Tapahtumaasi kasitellaan.
+
+Ota kortti, ole hyva
+Puheaika maksettu
+
+GoMobile latausvahvistus tekstiviestilla
+
+  ** PAAVALIKKO **
+  1. SETELIOTTO
+  2. SALDO
+  3. TAPAHTUMAT
+  4. LIITTYMAN LATAUS, PUHEAIKA
+  5. TALLETUS
+  0. STOP -> OHJELMAN LOPETUS
+
+  Valitse toiminto ( 1, 2, 3, 4, 5, 0) > 0
+
+
+Kiitos kaynnista
+
+D:\Ohjelmointi1\Kotitehtava_6>nostomaatti.exe
+
+Tervetuloa! Syota kortti, ole hyva
+
+Nappaile tilinumero > 111122
+
+Tilinumeroa ei loytynyt.
+Nappaile tilinumero > 11122
+Nappaile tunnusluku > 1122
+
+  ** PAAVALIKKO **
+  1. SETELIOTTO
+  2. SALDO
+  3. TAPAHTUMAT
+  4. LIITTYMAN LATAUS, PUHEAIKA
+  5. TALLETUS
+  0. STOP -> OHJELMAN LOPETUS
+
+  Valitse toiminto ( 1, 2, 3, 4, 5, 0) > 0
+
+
+Kiitos kaynnista
+
+D:\Ohjelmointi1\Kotitehtava_6>nostomaatti.exe
+
+Tervetuloa! Syota kortti, ole hyva
+
+Nappaile tilinumero > 11122
+Nappaile tunnusluku > -1122
+Annoit viallisen tunnusluvun.
+Syota tunnusluku uudelleen.
+
+Nappaile tunnusluku > 1122
+
+  ** PAAVALIKKO **
+  1. SETELIOTTO
+  2. SALDO
+  3. TAPAHTUMAT
+  4. LIITTYMAN LATAUS, PUHEAIKA
+  5. TALLETUS
+  0. STOP -> OHJELMAN LOPETUS
+
+  Valitse toiminto ( 1, 2, 3, 4, 5, 0) > 3
+
+
+     TILITAPAHTUMAT:
+  Paiva        Aika     Nostomaara
+  ESIMERKKI RIVI  20.10.2019   19:34       100 eur
+  ESIMERKKI RIVI  29.10.2019   14:22        20 eur
+  ESIMERKKIRIVI
+  Tilin saldo:                2300 eur
+  Tililta nostettavissa:      2300 eur
+  Kortin kateisnostovara:     2300 eur
+
+  Paina ENTER >
+
+  ** PAAVALIKKO **
+  1. SETELIOTTO
+  2. SALDO
+  3. TAPAHTUMAT
+  4. LIITTYMAN LATAUS, PUHEAIKA
+  5. TALLETUS
+  0. STOP -> OHJELMAN LOPETUS
+
+  Valitse toiminto ( 1, 2, 3, 4, 5, 0) > 4
+
+Liittyman lataus
+
+  Valitse palvelu:
+  1. Saunalahti
+  2. DNA
+  3. Go Mobile
+  0. STOP -> PAAVALIKKOON
+
+  Valitse toiminto (1, 2, 3, 0) > 1
+
+   Syota Saunalahti puhelinnumero (esim. 0401987...) > 040f
+
+   LIITTYMAN LATAUS
+   10 euroa     25 euroa
+   15 euroa     30 euroa
+   20 euroa     50 euroa
+   0  STOP     100 euroa
+
+   Anna summa > -10
+
+Annoit kelpaamattoman summan.
+Kaytetaan OLETUS summaa.
+Ladattava summa 10 eur ( ** OLETUS ** ).
+
+Liittyman lataus
+
+Maksun hyvaksyminen
+
+   Puhelinnumero           040f
+   Ladattava summa         10 eur
+   Otto tililta            10 eur
+
+   Hyvaksy maksu ( paina ENTER ) >
+
+Tapahtumaasi kasitellaan.
+
+Ota kortti, ole hyva
+Puheaika maksettu
+
+Saunalahti latausvahvistus tekstiviestilla
+
+  ** PAAVALIKKO **
+  1. SETELIOTTO
+  2. SALDO
+  3. TAPAHTUMAT
+  4. LIITTYMAN LATAUS, PUHEAIKA
+  5. TALLETUS
+  0. STOP -> OHJELMAN LOPETUS
+
+  Valitse toiminto ( 1, 2, 3, 4, 5, 0) > 4
+
+Liittyman lataus
+
+  Valitse palvelu:
+  1. Saunalahti
+  2. DNA
+  3. Go Mobile
+  0. STOP -> PAAVALIKKOON
+
+  Valitse toiminto (1, 2, 3, 0) > 1
+
+   Syota Saunalahti puhelinnumero (esim. 0401987...) > 040
+
+   LIITTYMAN LATAUS
+   10 euroa     25 euroa
+   15 euroa     30 euroa
+   20 euroa     50 euroa
+   0  STOP     100 euroa
+
+   Anna summa > 10
+
+Liittyman lataus
+
+Maksun hyvaksyminen
+
+   Puhelinnumero           040
+   Ladattava summa         10 eur
+   Otto tililta            10 eur
+
+   Hyvaksy maksu ( paina ENTER ) >
+
+Tapahtumaasi kasitellaan.
+
+Ota kortti, ole hyva
+Puheaika maksettu
+
+Saunalahti latausvahvistus tekstiviestilla
+
+  ** PAAVALIKKO **
+  1. SETELIOTTO
+  2. SALDO
+  3. TAPAHTUMAT
+  4. LIITTYMAN LATAUS, PUHEAIKA
+  5. TALLETUS
+  0. STOP -> OHJELMAN LOPETUS
+
+  Valitse toiminto ( 1, 2, 3, 4, 5, 0) > 4
+
+Liittyman lataus
+
+  Valitse palvelu:
+  1. Saunalahti
+  2. DNA
+  3. Go Mobile
+  0. STOP -> PAAVALIKKOON
+
+  Valitse toiminto (1, 2, 3, 0) > -1
+
+Hieman pieleen meni valinta.
+Palataan paavalikkoon.
+
+  ** PAAVALIKKO **
+  1. SETELIOTTO
+  2. SALDO
+  3. TAPAHTUMAT
+  4. LIITTYMAN LATAUS, PUHEAIKA
+  5. TALLETUS
+  0. STOP -> OHJELMAN LOPETUS
+
+  Valitse toiminto ( 1, 2, 3, 4, 5, 0) > 4
+
+Liittyman lataus
+
+  Valitse palvelu:
+  1. Saunalahti
+  2. DNA
+  3. Go Mobile
+  0. STOP -> PAAVALIKKOON
+
+  Valitse toiminto (1, 2, 3, 0) > t
+  Et syottanyt kokonaislukua > 5
+
+Hieman pieleen meni valinta.
+Palataan paavalikkoon.
+
+  ** PAAVALIKKO **
+  1. SETELIOTTO
+  2. SALDO
+  3. TAPAHTUMAT
+  4. LIITTYMAN LATAUS, PUHEAIKA
+  5. TALLETUS
+  0. STOP -> OHJELMAN LOPETUS
+
+  Valitse toiminto ( 1, 2, 3, 4, 5, 0) > 4
+
+Liittyman lataus
+
+  Valitse palvelu:
+  1. Saunalahti
+  2. DNA
+  3. Go Mobile
+  0. STOP -> PAAVALIKKOON
+
+  Valitse toiminto (1, 2, 3, 0) > 1.0
+  Et syottanyt kokonaislukua > 7
+
+Hieman pieleen meni valinta.
+Palataan paavalikkoon.
+
+  ** PAAVALIKKO **
+  1. SETELIOTTO
+  2. SALDO
+  3. TAPAHTUMAT
+  4. LIITTYMAN LATAUS, PUHEAIKA
+  5. TALLETUS
+  0. STOP -> OHJELMAN LOPETUS
+
+  Valitse toiminto ( 1, 2, 3, 4, 5, 0) > 5
+
+
+  Anna talletusmaara > -10
+
+Talletuksen pitaa olla positiivinen
+  Anna talletusmaara > eee
+  Et syottanyt kokonaislukua > 1.0
+  Et syottanyt kokonaislukua > 0
+
+  Anna talletusmaara > 10
+
+  ** PAAVALIKKO **
+  1. SETELIOTTO
+  2. SALDO
+  3. TAPAHTUMAT
+  4. LIITTYMAN LATAUS, PUHEAIKA
+  5. TALLETUS
+  0. STOP -> OHJELMAN LOPETUS
+
+  Valitse toiminto ( 1, 2, 3, 4, 5, 0) > -1
+
+
+  ** PAAVALIKKO **
+  1. SETELIOTTO
+  2. SALDO
+  3. TAPAHTUMAT
+  4. LIITTYMAN LATAUS, PUHEAIKA
+  5. TALLETUS
+  0. STOP -> OHJELMAN LOPETUS
+
+  Valitse toiminto ( 1, 2, 3, 4, 5, 0) > 10
+
+
+  ** PAAVALIKKO **
+  1. SETELIOTTO
+  2. SALDO
+  3. TAPAHTUMAT
+  4. LIITTYMAN LATAUS, PUHEAIKA
+  5. TALLETUS
+  0. STOP -> OHJELMAN LOPETUS
+
+  Valitse toiminto ( 1, 2, 3, 4, 5, 0) > 1.0
+  Et syottanyt kokonaislukua > h
+  Et syottanyt kokonaislukua > 0
+
+
+Kiitos kaynnista
+
+D:\Ohjelmointi1\Kotitehtava_6>
+D:\Ohjelmointi1\Kotitehtava_6>nostomaatti.exe
+
+Tervetuloa! Syota kortti, ole hyva
+
+Nappaile tilinumero > 12 w e
+
+Tilinumeroa ei loytynyt.
+Nappaile tilinumero > 12345
+Nappaile tunnusluku > w e
+  Et syottanyt kokonaislukua > 1234
+
+  ** PAAVALIKKO **
+  1. SETELIOTTO
+  2. SALDO
+  3. TAPAHTUMAT
+  4. LIITTYMAN LATAUS, PUHEAIKA
+  5. TALLETUS
+  0. STOP -> OHJELMAN LOPETUS
+
+  Valitse toiminto ( 1, 2, 3, 4, 5, 0) > 2
+
+  Tilin saldo:                  1980 eur
+  Tilin kateisnostovara:        1980 eur
+
+  Paina ENTER >
+
+  ** PAAVALIKKO **
+  1. SETELIOTTO
+  2. SALDO
+  3. TAPAHTUMAT
+  4. LIITTYMAN LATAUS, PUHEAIKA
+  5. TALLETUS
+  0. STOP -> OHJELMAN LOPETUS
+
+  Valitse toiminto ( 1, 2, 3, 4, 5, 0) > 1
+
+       SETELI OTTO
+  20 euroa     90 euroa
+  40 euroa    140 euroa
+  60 euroa    240 euroa
+  0  STOP     Muu summa
+
+  Anna summa > 940
+
+Nostettu summa on 940 euroa
+Annetaan
+   18 kpl 50 eur seteleita
+    2 kpl 20 eur seteleita
+Ota kortti, ole hyva. Rahat tulossa.
+Ota rahat.
+
+Kiitos kaynnista
+
+D:\Ohjelmointi1\Kotitehtava_6>
+D:\Ohjelmointi1\Kotitehtava_6>nostomaatti.exe
+
+Tervetuloa! Syota kortti, ole hyva
+
+Nappaile tilinumero > 12345
+Nappaile tunnusluku > 1234
+
+  ** PAAVALIKKO **
+  1. SETELIOTTO
+  2. SALDO
+  3. TAPAHTUMAT
+  4. LIITTYMAN LATAUS, PUHEAIKA
+  5. TALLETUS
+  0. STOP -> OHJELMAN LOPETUS
+
+  Valitse toiminto ( 1, 2, 3, 4, 5, 0) > 2
+
+  Tilin saldo:                  1040 eur
+  Tilin kateisnostovara:        1040 eur
+
+  Paina ENTER >
+
+  ** PAAVALIKKO **
+  1. SETELIOTTO
+  2. SALDO
+  3. TAPAHTUMAT
+  4. LIITTYMAN LATAUS, PUHEAIKA
+  5. TALLETUS
+  0. STOP -> OHJELMAN LOPETUS
+
+  Valitse toiminto ( 1, 2, 3, 4, 5, 0) > 1
+
+       SETELI OTTO
+  20 euroa     90 euroa
+  40 euroa    140 euroa
+  60 euroa    240 euroa
+  0  STOP     Muu summa
+
+  Anna summa > 12
+
+Annoit kelpaamattoman luvun.
+Automaatista saa 20 ja 50 euron seteleita.
+Valitse nostomaara uudelleen.
+
+       SETELI OTTO
+  20 euroa     90 euroa
+  40 euroa    140 euroa
+  60 euroa    240 euroa
+  0  STOP     Muu summa
+
+  Anna summa > 21
+
+Annoit kelpaamattoman luvun.
+Automaatista saa 20 ja 50 euron seteleita.
+Valitse nostomaara uudelleen.
+
+       SETELI OTTO
+  20 euroa     90 euroa
+  40 euroa    140 euroa
+  60 euroa    240 euroa
+  0  STOP     Muu summa
+
+  Anna summa > 12.1
+  Et syottanyt kokonaislukua > 25.5
+  Et syottanyt kokonaislukua > -25
+
+Annoit kelpaamattoman luvun.
+Automaatista saa 20 ja 50 euron seteleita.
+Valitse nostomaara uudelleen.
+
+       SETELI OTTO
+  20 euroa     90 euroa
+  40 euroa    140 euroa
+  60 euroa    240 euroa
+  0  STOP     Muu summa
+
+  Anna summa > 25
+
+Annoit kelpaamattoman luvun.
+Automaatista saa 20 ja 50 euron seteleita.
+Valitse nostomaara uudelleen.
+
+       SETELI OTTO
+  20 euroa     90 euroa
+  40 euroa    140 euroa
+  60 euroa    240 euroa
+  0  STOP     Muu summa
+
+  Anna summa > 1200
+
+  Saldosi on 1040 euroa. Et voi nostaa enempaa kuin tililla on rahaa
+
+       SETELI OTTO
+  20 euroa     90 euroa
+  40 euroa    140 euroa
+  60 euroa    240 euroa
+  0  STOP     Muu summa
+
+  Anna summa > 1040
+
+Nostettu summa on 1040 euroa
+Annetaan
+   20 kpl 50 eur seteleita
+    2 kpl 20 eur seteleita
+Ota kortti, ole hyva. Rahat tulossa.
+Ota rahat.
+
+Kiitos kaynnista
+
+D:\Ohjelmointi1\Kotitehtava_6>nostomaatti.exe
+
+Tervetuloa! Syota kortti, ole hyva
+
+Nappaile tilinumero > 12345
+Nappaile tunnusluku > 1234
+
+  ** PAAVALIKKO **
+  1. SETELIOTTO
+  2. SALDO
+  3. TAPAHTUMAT
+  4. LIITTYMAN LATAUS, PUHEAIKA
+  5. TALLETUS
+  0. STOP -> OHJELMAN LOPETUS
+
+  Valitse toiminto ( 1, 2, 3, 4, 5, 0) > 2
+
+  Tilin saldo:                     0 eur
+  Tilin kateisnostovara:           0 eur
+
+  Paina ENTER > 5
+
+  ** PAAVALIKKO **
+  1. SETELIOTTO
+  2. SALDO
+  3. TAPAHTUMAT
+  4. LIITTYMAN LATAUS, PUHEAIKA
+  5. TALLETUS
+  0. STOP -> OHJELMAN LOPETUS
+
+  Valitse toiminto ( 1, 2, 3, 4, 5, 0) > 5
+
+
+  Anna talletusmaara > 1000
+
+  ** PAAVALIKKO **
+  1. SETELIOTTO
+  2. SALDO
+  3. TAPAHTUMAT
+  4. LIITTYMAN LATAUS, PUHEAIKA
+  5. TALLETUS
+  0. STOP -> OHJELMAN LOPETUS
+
+  Valitse toiminto ( 1, 2, 3, 4, 5, 0) > 2
+
+  Tilin saldo:                  1000 eur
+  Tilin kateisnostovara:        1000 eur
+
+  Paina ENTER >
+
+  ** PAAVALIKKO **
+  1. SETELIOTTO
+  2. SALDO
+  3. TAPAHTUMAT
+  4. LIITTYMAN LATAUS, PUHEAIKA
+  5. TALLETUS
+  0. STOP -> OHJELMAN LOPETUS
+
+  Valitse toiminto ( 1, 2, 3, 4, 5, 0) > 0
+
+
+Kiitos kaynnista
+
+D:\Ohjelmointi1\Kotitehtava_6>
